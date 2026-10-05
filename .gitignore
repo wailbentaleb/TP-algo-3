@@ -1,0 +1,11 @@
+# Binaires & executables
+*.exe
+*.o
+*.out
+*.obj
+
+# Fichiers temporaires ou d'environnement
+.vscode/
+.idea/
+*.tmp
+*.log
